@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Create new landing page",
+            "details": "Using nuxt js",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Create CRUD system REST API",
+            "details": "Using express.js",
+            "completed": true
+        },
+        {
+            "id": 3,
+            "title": "Create portfolio",
+            "details": "Using nuxt js",
+            "completed": false
+        }
+    ]
+}
