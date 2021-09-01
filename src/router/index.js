@@ -20,7 +20,8 @@ const routes = [
   {
     path: '/edit/:id',
     name: 'Edit',
-    component: Edit
+    component: Edit,
+    props: true
   },
 ]
 
